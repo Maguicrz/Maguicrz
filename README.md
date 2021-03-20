@@ -1,5 +1,5 @@
 ### HOLAA, Soy Mariana 👋 
-Aprendiendo swift :innocent: y python.
+Aprendiendo swift y python.
 
 <h3 align="center">🔭 ¿Telescopio o Guitarra? </h3>
 <h4 align="center">👯 Intentando tocar el piano</h4>
