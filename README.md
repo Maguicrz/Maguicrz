@@ -1,5 +1,5 @@
 
-<h3 align="center">### HOLAA, Soy Mariana 👋  </h3>
+<h3 align="center">HOLAA, Soy Mariana 👋  </h3>
 <h4 align="center">Aprendiendo swift y python.</h4>
 
 🔭 ¿Telescopio o Guitarra? </h3>
