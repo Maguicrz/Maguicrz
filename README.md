@@ -2,8 +2,8 @@
 <h3 align="center">HOLAA, Soy Mariana 👋  </h3>
 <h4 align="center">Aprendiendo swift y python.</h4>
 
-🔭 ¿Telescopio o Guitarra? </h3>
-👯 Intentando tocar el piano</h4>
+*🔭 ¿Telescopio o Guitarra?
+*👯 Intentando tocar el piano
 
 
 
