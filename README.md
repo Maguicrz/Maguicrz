@@ -8,5 +8,5 @@ Aprendiendo swift y python.
 <a href="https://www.linkedin.com/in/mariana-carrillo-ruiz-9b2bb2118/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/mariana-carrillo-ruiz-9b2bb2118/" height="30" width="40" /></a>
 </p>
 
-
+![image](https://p4.wallpaperbetter.com/wallpaper/837/867/723/earth-minimalism-rocket-wallpaper-preview.jpg)
 
